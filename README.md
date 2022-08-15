@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gglibaak
 - 👀 I’m interested in FullStack and Mobile Apps.
-- 🌱 I’m currently learning FrontEnd design, Flutter.
+- 🌱 I’m currently learning Full-Stack, Flutter.
 - 💞️ I’m looking to collaborate with everyone
 - 📫 Here :)
 
