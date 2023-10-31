@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gglibaak
-- 👀 I’m interested in FullStack and Mobile Apps.
-- 🌱 I’m currently learning Full-Stack, React Native.
-- 💞️ I’m looking to collaborate with everyone
+- ✔️ I’m Full-Stack Developer. 
+- 👀 I’m interested in new technologies.
 - 📫 Here :)
 
 <!---
